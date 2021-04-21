@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Bharadwaj</h1>
 
-<h3 align="center">A Android Custom Rom developer from India</h3>
+<h3 align="center"> Android Custom Rom developer from India</h3>
 
 Here are some ideas to get you started:
 
