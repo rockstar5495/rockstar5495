@@ -2,6 +2,8 @@
 
 <h3 align="center"> Android Custom Rom developer from India</h3>
 
+[![Pratyaksh's github stats](https://github-readme-stats.vercel.app/api?username=rockstar5495&count_private=true&theme=white&show_icons=true)](https://github.com/rockstar5495)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... [MSM Xtended for Redmi Note 4/4X & Redmi Note 10 Pro/Pro Max](https://msmxtended.org)
